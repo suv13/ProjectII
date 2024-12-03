@@ -57,39 +57,101 @@
             "category": "Creative"
         },
         {
-          "name": "Listen to Relaxing Music",
-          "description": "15 minutes of listening to calming music or nature sounds.",
-          "duration": 15,
-          "environment": "Indoors",
-          "imageName": "Indoors.jpg",
-          "category": "Meditative"
+            "name": "Listen to Relaxing Music",
+            "description": "15 minutes of listening to calming music or nature sounds.",
+            "duration": 15,
+            "environment": "Indoors",
+            "imageName": "Indoors.jpg",
+            "category": "Meditative"
         },
         {
-          "name": "Dance",
-          "description": "15 minutes of dancing to your favorite songs to lift your spirits.",
-          "duration": 15,
-          "environment": "Indoors",
-          "imageName": "Indoors.jpg",
-          "category": "Physical"
+            "name": "Dance",
+            "description": "15 minutes of dancing to your favorite songs to lift your spirits.",
+            "duration": 15,
+            "environment": "Indoors",
+            "imageName": "Indoors.jpg",
+            "category": "Physical"
         },
         {
-          "name": "Walking",
-          "description": "A 30-minute outdoor walk in the neighborhood or park to refresh yourself.",
-          "duration": 30,
-          "environment": "Outdoors",
-          "imageName": "Woods.jpg",
-          "category": "Physical"
+            "name": "Walking",
+            "description": "A 30-minute outdoor walk in the neighborhood or park to refresh yourself.",
+            "duration": 30,
+            "environment": "Outdoors",
+            "imageName": "Woods.jpg",
+            "category": "Physical"
         },
         {
-          "name": "Listen to a Podcast",
-          "description": "30 minutes of inspiration through a motivational podcast or talk. You can do this outdoors as well.",
-          "duration": 30,
-          "environment": ["Indoors", "Outdoors"],
-          "imageName": "Church.jpg",
-          "category": "Meditative"
+            "name": "Listen to a Podcast",
+            "description": "30 minutes of inspiration through a motivational podcast or talk. You can do this outdoors as well.",
+            "duration": 30,
+            "environment": ["Indoors", "Outdoors"],
+            "imageName": "Church.jpg",
+            "category": "Meditative"
         },
         {
-          
+            "name": "Explore a New Hobby",
+            "description": "30 minutes to try something new, indoors or outdoors, as a creative escape.",
+            "duration": 30,
+            "environment": ["Indoors", "Outdoors"],
+            "imageName": "Church.jpg",
+            "category": "Creative"
+        },
+        {
+            "name": "Try a New Recipe or Bake",
+            "description": "A 45-minute culinary activity to experiment with a new recipe.",
+            "duration": 45,
+            "environment": "Indoors",
+            "imageName": "Indoors.jpg",
+            "category": "Creative"
+        },
+        {
+            "name": "Home Workout",
+            "description": "A 45-minute workout session at home to boost your energy.",
+            "duration": 45,
+            "environment": "Indoors",
+            "imageName": "Indoors.jpg",
+            "category": "Physical"
+
+        },
+        {
+            "name": "Go Biking",
+            "description": "A 45-minute bike ride outdoors for a change of pace.",
+            "duration": 45,
+            "environment": "Outdoors",
+            "imageName": "Woods.jpg",
+            "category": "Physical"
+        },
+        {
+            "name": "Read Your Favorite Book",
+            "description": "45 minutes of quiet reading time to enjoy a book you want to read.",
+            "duration": 45,
+            "environment": "Indoors",
+            "imageName": "Indoors.jpg",
+            "category": "Meditative"
+        },
+        {
+            "name": "Take a Long Walk",
+            "description": "An hour-long walk in nature to unwind and be present.",
+            "duration": 60,
+            "environment": "Outdoors",
+            "imageName": "Woods.jpg",
+            "category": "Physical"
+        },
+        {
+            "name": "Exercise",
+            "description": "An hour-long gym session or outdoor workout for a full-body refresh.",
+            "duration": 60,
+            "environment": "Outdoors",
+            "imageName": "Woods.jpg",
+            "category": "Physical"
+        },
+        {
+            "name": "Attend a Yoga Class",
+            "description": "An hour of yoga, in-person or online, to stretch and de-stress.",
+            "duration": 60,
+            "environment": ["Indoors", "Outdoors"],
+            "imageName": "Church.jpg",
+            "category": "Physical"
         }
         
     ],
