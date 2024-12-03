@@ -1,0 +1,97 @@
+{
+    "Activities": [
+        {
+            "name": "Quick Meditation",
+            "description": "A 5-minute meditation session to focus on your breath and center your mind.",
+            "duration": 5,
+            "environment": "Indoors",
+            "imageName": "Indoors.jpg",
+            "category": "Meditative"
+        },
+        {
+            "name": "Deep Breathing Exercise",
+            "description": "A 5-minute deep breathing exercise to help you relax.",
+            "duration": 5,
+            "environment": "Indoors",
+            "imageName": "Indoors.jpg",
+            "category": "Meditative"
+        },
+        {
+            "name": "Gratitude Exercise",
+            "description": "A 5-minute writing exercise to reflect on three things you're grateful for today.",
+            "duration": 5,
+            "environment": "Indoors",
+            "imageName": "Indoors.jpg",
+            "category": "Meditative"
+        },
+        {
+            "name": "Drink Tea",
+            "description": "A 5-minute sensory experience to savor a warm cup of herbal tea.",
+            "duration": 5,
+            "environment": "Indoors",
+            "imageName": "Indoors.jpg",
+            "category": "Meditative"
+        },
+        {
+            "name": "Drink Tea",
+            "description": "A 5-minute sensory experience to savor a warm cup of herbal tea.",
+            "duration": 5,
+            "environment": "Indoors",
+            "imageName": "Indoors.jpg",
+            "category": "Meditative"
+        },
+        {
+            "name": "Stretching",
+            "description": "15 minutes of gentle indoor stretching exercises for relaxation.",
+            "duration": 15,
+            "environment": "Indoors",
+            "imageName": "Indoors.jpg",
+            "category": "Physical"
+        },
+        {
+            "name": "Journaling",
+            "description": "15 minutes of journaling your thoughts or goals to clear your mind.",
+            "duration": 15,
+            "environment": "Indoors",
+            "imageName": "Indoors.jpg",
+            "category": "Creative"
+        },
+        {
+          "name": "Listen to Relaxing Music",
+          "description": "15 minutes of listening to calming music or nature sounds.",
+          "duration": 15,
+          "environment": "Indoors",
+          "imageName": "Indoors.jpg",
+          "category": "Meditative"
+        },
+        {
+          "name": "Dance",
+          "description": "15 minutes of dancing to your favorite songs to lift your spirits.",
+          "duration": 15,
+          "environment": "Indoors",
+          "imageName": "Indoors.jpg",
+          "category": "Physical"
+        },
+        {
+          "name": "Walking",
+          "description": "A 30-minute outdoor walk in the neighborhood or park to refresh yourself.",
+          "duration": 30,
+          "environment": "Outdoors",
+          "imageName": "Woods.jpg",
+          "category": "Physical"
+        },
+        {
+          "name": "Listen to a Podcast",
+          "description": "30 minutes of inspiration through a motivational podcast or talk. You can do this outdoors as well.",
+          "duration": 30,
+          "environment": ["Indoors", "Outdoors"],
+          "imageName": "Church.jpg",
+          "category": "Meditative"
+        },
+        {
+          
+        }
+        
+    ],
+    "Status": "OK"
+}
