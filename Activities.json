@@ -2,156 +2,129 @@
     "Activities": [
         {
             "name": "Quick Meditation",
-            "description": "A 5-minute meditation session to focus on your breath and center your mind.",
-            "duration": 5,
+            "description": "A short meditation session to focus on your breath and center your mind.",
+            "duration": "5 minutes",
             "environment": "Indoors",
-            "imageName": "Indoors.jpg",
-            "category": "Meditative"
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Indoors.jpg"
         },
         {
             "name": "Deep Breathing Exercise",
-            "description": "A 5-minute deep breathing exercise to help you relax.",
-            "duration": 5,
+            "description": "A short deep breathing exercise. Breathe in through your nose and feel your belly expand. Breathe out through your mouth for a few seconds. Repeat.",
+            "duration": "5 minutes",
             "environment": "Indoors",
-            "imageName": "Indoors.jpg",
-            "category": "Meditative"
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Indoors.jpg"
         },
         {
             "name": "Gratitude Exercise",
-            "description": "A 5-minute writing exercise to reflect on three things you're grateful for today.",
-            "duration": 5,
+            "description": "A short writing exercise to reflect on three things you're grateful for today.",
+            "duration": "5 minutes",
             "environment": "Indoors",
-            "imageName": "Indoors.jpg",
-            "category": "Meditative"
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Indoors.jpg"
         },
         {
             "name": "Drink Tea",
-            "description": "A 5-minute sensory experience to savor a warm cup of herbal tea.",
-            "duration": 5,
+            "description": "A short sensory experience to savor a warm cup of herbal tea.",
+            "duration": "5 minutes",
             "environment": "Indoors",
-            "imageName": "Indoors.jpg",
-            "category": "Meditative"
-        },
-        {
-            "name": "Drink Tea",
-            "description": "A 5-minute sensory experience to savor a warm cup of herbal tea.",
-            "duration": 5,
-            "environment": "Indoors",
-            "imageName": "Indoors.jpg",
-            "category": "Meditative"
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Indoors.jpg"
         },
         {
             "name": "Stretching",
-            "description": "15 minutes of gentle indoor stretching exercises for relaxation.",
-            "duration": 15,
+            "description": "Perform some gentle indoor stretching exercises for relaxation.",
+            "duration": "15 minutes",
             "environment": "Indoors",
-            "imageName": "Indoors.jpg",
-            "category": "Physical"
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Indoors.jpg"
         },
         {
             "name": "Journaling",
-            "description": "15 minutes of journaling your thoughts or goals to clear your mind.",
-            "duration": 15,
+            "description": "Journal your thoughts or goals to clear your mind.",
+            "duration": "15 minutes",
             "environment": "Indoors",
-            "imageName": "Indoors.jpg",
-            "category": "Creative"
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Indoors.jpg"
         },
         {
             "name": "Listen to Relaxing Music",
-            "description": "15 minutes of listening to calming music or nature sounds.",
-            "duration": 15,
+            "description": "Listen to calming music or nature sounds.",
+            "duration": "15 minutes",
             "environment": "Indoors",
-            "imageName": "Indoors.jpg",
-            "category": "Meditative"
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Indoors.jpg"
         },
         {
             "name": "Dance",
-            "description": "15 minutes of dancing to your favorite songs to lift your spirits.",
-            "duration": 15,
+            "description": "Dance to your favorite songs to lift your spirits.",
+            "duration": "15 minutes",
             "environment": "Indoors",
-            "imageName": "Indoors.jpg",
-            "category": "Physical"
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Indoors.jpg"
         },
         {
             "name": "Walking",
-            "description": "A 30-minute outdoor walk in the neighborhood or park to refresh yourself.",
-            "duration": 30,
+            "description": "Take an outdoor walk in the neighborhood or park to refresh yourself.",
+            "duration": "30 minutes",
             "environment": "Outdoors",
-            "imageName": "Woods.jpg",
-            "category": "Physical"
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Woods.jpg"
         },
         {
             "name": "Listen to a Podcast",
-            "description": "30 minutes of inspiration through a motivational podcast or talk. You can do this outdoors as well.",
-            "duration": 30,
-            "environment": ["Indoors", "Outdoors"],
-            "imageName": "Church.jpg",
-            "category": "Meditative"
+            "description": "Half an hour of inspiration through a motivational podcast or talk.",
+            "duration": "30 minutes",
+            "environment": "Indoors or Outdoors",
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Church.jpg"
         },
         {
             "name": "Explore a New Hobby",
-            "description": "30 minutes to try something new, indoors or outdoors, as a creative escape.",
-            "duration": 30,
-            "environment": ["Indoors", "Outdoors"],
-            "imageName": "Church.jpg",
-            "category": "Creative"
+            "description": "Try something new, indoors or outdoors, as a creative escape.",
+            "duration": "30 minutes",
+            "environment": "Indoors or Outdoors",
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Church.jpg"
         },
         {
             "name": "Try a New Recipe or Bake",
-            "description": "A 45-minute culinary activity to experiment with a new recipe.",
-            "duration": 45,
+            "description": "A culinary activity to experiment with a new recipe.",
+            "duration": "45 minutes",
             "environment": "Indoors",
-            "imageName": "Indoors.jpg",
-            "category": "Creative"
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Indoors.jpg"
         },
         {
             "name": "Home Workout",
-            "description": "A 45-minute workout session at home to boost your energy.",
-            "duration": 45,
+            "description": "A moderately long workout session at home to boost your energy.",
+            "duration": "45 minutes",
             "environment": "Indoors",
-            "imageName": "Indoors.jpg",
-            "category": "Physical"
-
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Indoors.jpg"
         },
         {
             "name": "Go Biking",
-            "description": "A 45-minute bike ride outdoors for a change of pace.",
-            "duration": 45,
+            "description": "A moderately long bike ride outdoors for a change of pace.",
+            "duration": "45 minutes",
             "environment": "Outdoors",
-            "imageName": "Woods.jpg",
-            "category": "Physical"
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Woods.jpg"
         },
         {
             "name": "Read Your Favorite Book",
-            "description": "45 minutes of quiet reading time to enjoy a book you want to read.",
-            "duration": 45,
+            "description": "Quiet reading time to enjoy a book you want to read.",
+            "duration": "45 minutes",
             "environment": "Indoors",
-            "imageName": "Indoors.jpg",
-            "category": "Meditative"
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Indoors.jpg"
         },
         {
             "name": "Take a Long Walk",
             "description": "An hour-long walk in nature to unwind and be present.",
-            "duration": 60,
+            "duration": "60 minutes",
             "environment": "Outdoors",
-            "imageName": "Woods.jpg",
-            "category": "Physical"
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Woods.jpg"
         },
         {
             "name": "Exercise",
-            "description": "An hour-long gym session or outdoor workout for a full-body refresh.",
-            "duration": 60,
-            "environment": "Outdoors",
-            "imageName": "Woods.jpg",
-            "category": "Physical"
+            "description": "An hour-long gym session or outdoor workout for a full-body refresh. You can do any workout you prefer - weights, running, swimming, biking, to name a few.",
+            "duration": "60 minutes",
+            "environment": "Indoors or Outdoors",
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Church.jpg"
         },
         {
             "name": "Attend a Yoga Class",
-            "description": "An hour of yoga, in-person or online, to stretch and de-stress.",
-            "duration": 60,
-            "environment": ["Indoors", "Outdoors"],
-            "imageName": "Church.jpg",
-            "category": "Physical"
+            "description": "Take an instructor-led yoga class, in-person or online, to stretch and de-stress.",
+            "duration": "60 minutes",
+            "environment": "Indoors",
+            "imageName": "https://github.com/suv13/ProjectII/raw/main/Indoors.jpg"
         }
         
     ],
