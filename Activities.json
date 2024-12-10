@@ -5,126 +5,144 @@
             "description": "A short meditation session to focus on your breath and center your mind.",
             "duration": "5 minutes",
             "environment": "Indoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg",
+            "activityID": 1
         },
         {
             "name": "Deep Breathing Exercise",
             "description": "A short deep breathing exercise. Breathe in through your nose and feel your belly expand. Breathe out through your mouth for a few seconds. Repeat.",
             "duration": "5 minutes",
             "environment": "Indoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg",
+            "activityID": 2
         },
         {
             "name": "Gratitude Exercise",
             "description": "A short writing exercise to reflect on three things you're grateful for today.",
             "duration": "5 minutes",
             "environment": "Indoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg",
+            "activityID": 3
         },
         {
             "name": "Drink Tea",
             "description": "A short sensory experience to savor a warm cup of herbal tea.",
             "duration": "5 minutes",
             "environment": "Indoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg",
+            "activityID": 4
         },
         {
             "name": "Stretching",
             "description": "Perform some gentle indoor stretching exercises for relaxation.",
             "duration": "15 minutes",
             "environment": "Indoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg",
+            "activityID": 5
         },
         {
             "name": "Journaling",
             "description": "Journal your thoughts or goals to clear your mind.",
             "duration": "15 minutes",
             "environment": "Indoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg",
+            "activityID": 6
         },
         {
             "name": "Listen to Relaxing Music",
             "description": "Listen to calming music or nature sounds.",
             "duration": "15 minutes",
             "environment": "Indoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg",
+            "activityID": 7
         },
         {
             "name": "Dance",
             "description": "Dance to your favorite songs to lift your spirits.",
             "duration": "15 minutes",
             "environment": "Indoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg",
+            "activityID": 8
         },
         {
             "name": "Walking",
             "description": "Take an outdoor walk in the neighborhood or park to refresh yourself.",
             "duration": "30 minutes",
             "environment": "Outdoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Woods.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Woods.jpg",
+            "activityID": 9
         },
         {
             "name": "Listen to a Podcast",
             "description": "Half an hour of inspiration through a motivational podcast or talk.",
             "duration": "30 minutes",
             "environment": "Indoors or Outdoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Church.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Church.jpg",
+            "activityID": 10
         },
         {
             "name": "Explore a New Hobby",
             "description": "Try something new, indoors or outdoors, as a creative escape.",
             "duration": "30 minutes",
             "environment": "Indoors or Outdoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Church.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Church.jpg",
+            "activityID": 11
         },
         {
             "name": "Try a New Recipe or Bake",
             "description": "A culinary activity to experiment with a new recipe.",
             "duration": "45 minutes",
             "environment": "Indoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg",
+            "activityID": 12
         },
         {
             "name": "Home Workout",
             "description": "A moderately long workout session at home to boost your energy.",
             "duration": "45 minutes",
             "environment": "Indoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg",
+            "activityID": 13
         },
         {
             "name": "Go Biking",
             "description": "A moderately long bike ride outdoors for a change of pace.",
             "duration": "45 minutes",
             "environment": "Outdoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Woods.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Woods.jpg",
+            "activityID": 14
         },
         {
             "name": "Read Your Favorite Book",
             "description": "Quiet reading time to enjoy a book you want to read.",
             "duration": "45 minutes",
             "environment": "Indoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg",
+            "activityID": 15
         },
         {
             "name": "Take a Long Walk",
             "description": "An hour-long walk in nature to unwind and be present.",
             "duration": "60 minutes",
             "environment": "Outdoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Woods.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Woods.jpg",
+            "activityID": 16
         },
         {
             "name": "Exercise",
             "description": "An hour-long gym session or outdoor workout for a full-body refresh. You can do any workout you prefer - weights, running, swimming, biking, to name a few.",
             "duration": "60 minutes",
             "environment": "Indoors or Outdoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Church.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Church.jpg",
+            "activityID": 17
         },
         {
             "name": "Attend a Yoga Class",
             "description": "Take an instructor-led yoga class, in-person or online, to stretch and de-stress.",
             "duration": "60 minutes",
             "environment": "Indoors",
-            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg"
+            "imageName": "https://raw.githubusercontent.com/suv13/ProjectII/main/Indoors.jpg",
+            "activityID": 18
         }
         
     ],
